@@ -1,0 +1,6 @@
+{
+  "name": "Discord RPC",
+  "description": "Rich Presence for Discord with live media preview, watching statuses, and gateway broadcast",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
